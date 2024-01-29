@@ -1,4 +1,4 @@
-### UI
+### UI : 
 # Build a UI for REST API with React.js and Next.js
 
 ### Overview
@@ -72,12 +72,12 @@ To learn more about Next.js, take a look at the following resources:
 - react-hook-form
 - react-hot-toast
 
-===============================================================================
-### SERVER
+===============================================================
+### SERVER : 
 
 # Build A Restful Api With Node.js Express MongoDB Joi and JWT token authentication bcryptjs encryption Express-generator File Upload Using Multer Pagination | Rest Api Tutorial
 
-===============================================================================
+===============================================================
 This article will show you how to create a RESTful API with Node.js, Express framework, Express-generator, Joi and JWT token authentication, and image upload using the fs module and Multer.
 
 
@@ -86,7 +86,7 @@ This tutorial will teach you all CRUD operations i.e. user register and login wi
 Also you will find Pagination in All post API which is achive using aggrariate dunction in node js .
 
 
-===============================================================================
+===============================================================
 
 In this tutorial, we will build a RESTful API using the following technologies:
 - [Node.js](https://nodejs.org/) as our server platform.
@@ -98,7 +98,7 @@ In this tutorial, we will build a RESTful API using the following technologies:
 - [Express-generator](http://expressjs.com/starter/generator.html) to create a new Express project with all necessary files already set up.
 - [Multer](https://www.npmjs.com/package/multer) middleware for handling multipart/form-data, which is primarily used for uploading files. 
 
-===============================================================================
+===============================================================
 
 To get started, make sure you have Node.js installed on your machine. You can download
 it from [here](https://nodejs.org/en/download/). After installing Node.
