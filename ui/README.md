@@ -24,9 +24,9 @@ You can start editing the page by deleting the src and app.tsx. after that you h
 
 ## Commands to be run 
 
--npx create-next-app <projectname> 
--npm add axios swr react-hook-form zod @hookform/resolvers
--npm install react-hot-toast
+- npx create-next-app <projectname> 
+- npm add axios swr react-hook-form zod @hookform/resolvers
+- nnpm install react-hot-toast
 
 
 ## Learn More
