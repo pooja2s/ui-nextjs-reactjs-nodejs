@@ -45,28 +45,28 @@ To learn more about Next.js, take a look at the following resources:
 
 
 # What you will learn
-How to make network request from a React.js application
-Basic Next.js routing
-Form validation with Zod
-Building forms with react-hook-form
+- How to make network request from a React.js application
+- Basic Next.js routing
+- Form validation with Zod
+- Building forms with react-hook-form
 
 # Minor server refactoring
-Add get current user route
+- Add get current user route
 
 # Registration page
-A form for registering a user
-Network request to register a user
+- A form for registering a user
+- Network request to register a user
 
 # Login page
-A form for logging a user in
-Network request to log the the user in
-Get logged in user
-Network request to get the current user
+- A form for logging a user in
+- Network request to log the the user in
+- Get logged in user
+- Network request to get the current user
 
 # What we will use
-Next.js
-SWR
-Axios
-Zod
-react-hook-form
-toaster
+- Next.js
+- SWR
+- Axios
+- Zod
+- react-hook-form
+- react-hot-toast
