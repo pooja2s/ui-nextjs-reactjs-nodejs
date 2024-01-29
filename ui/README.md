@@ -1,4 +1,4 @@
-Build a UI for REST API with React.js and Next.js
+# Build a UI for REST API with React.js and Next.js
 
 ### Overview
 I am trying to build a user interface using React.js and Next.js for an existing RESTful API that I have built in Node.js. 
@@ -8,7 +8,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 First, run the development server:
-
 ```bash
 npm run dev
 # or
@@ -57,6 +56,7 @@ Add get current user route
 # Registration page
 A form for registering a user
 Network request to register a user
+
 # Login page
 A form for logging a user in
 Network request to log the the user in
